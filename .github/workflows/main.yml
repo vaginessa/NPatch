@@ -114,7 +114,7 @@ jobs:
           patch-loader/build/symbols
 
     - name: Post to channel
-      if: ${{ github.event_name != 'pull_request' && success() && github.ref == 'refs/heads/master' }}
+      if: ${{ github.event_name != 'pull_request' && success() && github.ref == 'refs/heads/master' }} && false
       env:
         CHANNEL_ID: ${{ secrets.CHANNEL_ID }}
         DISCUSSION_ID: ${{ secrets.DISCUSSION_ID }}
