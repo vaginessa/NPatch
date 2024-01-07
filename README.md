@@ -1,4 +1,4 @@
-# LSPatch Framework
+# NPatch Framework
 
 [![Build](https://img.shields.io/github/actions/workflow/status/HSSkyBoy/NPatch/main.yml?branch=master&logo=github&label=Build&event=push)](https://github.com/HSSkyBoy/NPatch/actions/workflows/main.yml?query=event%3Apush+is%3Acompleted+branch%3Amaster) [![Crowdin](https://img.shields.io/badge/Localization-Crowdin-blueviolet?logo=Crowdin)](https://lsposed.crowdin.com/lspatch) [![Download](https://img.shields.io/github/v/release/HSSkyBoy/NPatch?color=orange&logoColor=orange&label=Download&logo=DocuSign)](https://github.com/HSSkyBoy/NPatch/releases/latest) [![Total](https://shields.io/github/downloads/HSSkyBoy/NPatch/total?logo=Bookmeter&label=Counts&logoColor=yellow&color=yellow)](https://github.com/HSSkyBoy/NPatch/releases)
 
