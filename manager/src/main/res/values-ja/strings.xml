@@ -17,14 +17,14 @@
     <!-- Home Screen -->
     <string name="home_shizuku_warning">一部の機能が使用できません</string>
     <string name="home_api_version">APIのバージョン</string>
-    <string name="home_lspatch_version">LSPatchのバージョン</string>
+    <string name="home_lspatch_version">NPatchのバージョン</string>
     <string name="home_framework_version">フレームワークのバージョン</string>
     <string name="home_system_version">システムのバージョン</string>
     <string name="home_device">デバイス</string>
     <string name="home_system_abi">システムABI</string>
     <string name="home_info_copied">クリップボードにコピーしました</string>
     <string name="home_support">サポート</string>
-    <string name="home_description">LSPatchは、LSPosedコアに基づく無料の非root環境向けXposedフレームワークです。</string>
+    <string name="home_description">NPatchは、LSPosedコアに基づく無料の非root環境向けXposedフレームワークです。</string>
     <string name="home_view_source_code"><![CDATA[%1$sでソースコードを見る<br/>%2$sチャンネルに参加する]]></string>
     <!-- Manage Screen -->
     <string name="screen_manage">管理</string>
